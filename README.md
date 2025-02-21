@@ -4,5 +4,10 @@ This course introduces students to **Python programming** by creating a simple *
 
 Readin material
 - Book 00 INtroduction to the python enviorments
-- [ book 01 Python programming](./Book_01_python programming.ipynb)
+- [Book 01 Python programming](Book_01_python programming.ipynb)
+
+- [Book 1: Introduction to GIS](notebooks/intro_to_gis.ipynb)
+- [Book 2: Spatial SQL](notebooks/spatial_sql.ipynb)
+- [Book 3: 3D GIS Concepts](notebooks/3d_gis.ipynb)
+- 
 - 
