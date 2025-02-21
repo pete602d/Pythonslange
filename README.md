@@ -4,4 +4,5 @@ This course introduces students to **Python programming** by creating a simple *
 
 Readin material
 - Book 00 INtroduction to the python enviorments
-- [ book 01 Python programming][Book_01_python programming.ipynb]
+- [ book 01 Python programming](./Book_01_python programming.ipynb)
+- 
