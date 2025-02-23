@@ -21,7 +21,7 @@ Cureton, Paul. Geodesign, Urban Digital Twins, and Futures. Routledge, 2025. htt
 Cureton, Paul. Geodesign, Urban Digital Twins, and Futures. Routledge, 2025. https://soeg.kb.dk/permalink/45KBDK_KGL/1pioq0f/alma99125870352005763
 
 
-## Readin material
-- [Book 00 The Python Ecosystem](The_Python_Ecosystem.md)
-- 
-- [Book 1: Python programming](Book_01_python_programming.ipynb)
+## Presentet material
+**Monday**
+- [The Python Ecosystem](The_Python_Ecosystem.md)
+- [Python programming concepts](Python_programming_concepts.ipynb)
