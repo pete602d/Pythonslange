@@ -40,3 +40,4 @@ Cureton, Paul. Geodesign, Urban Digital Twins, and Futures. Routledge, 2025. htt
 - [Exercises](basic_python/08-exercises.ipynb)
 - **Data Sciance** 
 - [Titanic](Data_Science_Using_Pandas_Titanic.ipynb)
+- [Eathquake map](load_Earthquake_geojson_from_web.ipynb)
