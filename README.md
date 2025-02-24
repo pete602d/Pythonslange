@@ -32,6 +32,7 @@ Cureton, Paul. Geodesign, Urban Digital Twins, and Futures. Routledge, 2025. htt
 - [Rabdom numbers](basic_python/00a_Random_numbers.ipynb)
 - [Lists](basic_python/01-lists-and-indices.ipynb)
 - [Lists vs Tupels](basic_python/01a_Lists_vs_tuppels.ipynb)
+- [More on lists,Tupels and Dictionaries](https://python101.pythonlibrary.org/chapter3_lists_dicts.html)
 - [Mixing Text and numbers](basic_python/02-text-and-numbers.ipynb)
 - [For loops](basic_python/03-for-loops.ipynb)
 - [Conditions](basic_python/04-conditional-statements.ipynb)
