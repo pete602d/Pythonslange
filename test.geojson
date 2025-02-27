@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "NAvn": "RUC"
+      },
+      "geometry": {
+        "coordinates": [
+          12.139618984793486,
+          55.65244375007791
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAvn": "Trekroner"
+      },
+      "geometry": {
+        "coordinates": [
+          12.131952250817136,
+          55.64790529497256
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
