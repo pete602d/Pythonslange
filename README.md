@@ -19,7 +19,8 @@ Cureton, Paul. Geodesign, Urban Digital Twins, and Futures. Routledge, 2025. htt
 
 **For inspiration in relation to urban digital twins  please browse through:**
 Cureton, Paul. Geodesign, Urban Digital Twins, and Futures. Routledge, 2025. https://soeg.kb.dk/permalink/45KBDK_KGL/1pioq0f/alma99125870352005763
-
+##Exercise c
+[Contages decise](templet_Contagious_Disease.ipynb)
 
 ## Presentet material
 **Monday**
