@@ -22,12 +22,14 @@ Cureton, Paul. Geodesign, Urban Digital Twins, and Futures. Routledge, 2025. htt
 ##Exercise c
 [Contages decise](templet_Contagious_Disease.ipynb)
 
+
 ## Presentet material
-**Monday**
+**Introduction to Pythin programming.**
 - [The Python Ecosystem](The_Python_Ecosystem.md)
 - [Python programming concepts](Python_programming_concepts.ipynb)
 - [GCP Naming variabuls](gcp-1-variable-naming.ipynb)
 - [GCP describing code](gcp-2-describing-code.ipynb)
+- 
 - ## Basic Python ## 
 - [Basic Python](basic_python/00-python-basics.ipynb)
 - [Rabdom numbers](basic_python/00a_Random_numbers.ipynb)
@@ -40,7 +42,11 @@ Cureton, Paul. Geodesign, Urban Digital Twins, and Futures. Routledge, 2025. htt
 - [Functions](basic_python/05-functions.ipynb)
 - [Modules](basic_python/07-modules.ipynb)
 - [Exercises](basic_python/08-exercises.ipynb)
-- **Data Sciance**
+- 
+- **Exampels and exercisese**
 - [Random walk in Copenhagen](random_walk.ipynb)
 - [Eathquake map](load_Earthquake_geojson_from_web.ipynb)
 - [Titanic](Data_Science_Using_Pandas_Titanic.ipynb)
+- [Exercise Contagious Disease](templet_Contagious_Disease.ipynb)
+- [My take on Contagious Disease](result_Contagious_Disease.ipynb)
+- [Exercise loading data](Loading_data.ipynb)
